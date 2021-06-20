@@ -34,5 +34,7 @@ Only iphone with at least IOS 14
 
 <p align="left">
   <img width="281" height="609" src="https://user-images.githubusercontent.com/42607264/122687440-ca4ba280-d216-11eb-87e5-71929de368e8.PNG">
- <img width="281" height="609" src="https://i.giphy.com/media/QGZn72GtlvoDsnvjs3/giphy.webp">
+  <img width="281" height="609" src="https://i.giphy.com/media/QGZn72GtlvoDsnvjs3/giphy.webp">
+  <img width="281" height="609" src="https://user-images.githubusercontent.com/42607264/122688270-a8085380-d21b-11eb-811b-5b62521b89c2.PNG">
 </p>
+
