@@ -4,7 +4,7 @@
 
 # sequoia
 
-App made in swift with SwiftUI to download tiktoks localy.
+Native ios app to download tiktoks localy made in swift with SwiftUI without external dependencies.
 
 # features
 
