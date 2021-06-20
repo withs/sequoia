@@ -16,7 +16,6 @@ struct ContentView: View {
     @State var TikData: Array<Tiktok> = []
     
     @StateObject var notifDelegate = NotificationDelegate()
-    @State var backgroundtaskid: UIBackgroundTaskIdentifier?
     
     // min | size
     // 120 | 160 -> 2
