@@ -25,7 +25,7 @@ Only iphone with at least IOS 14
 
 # try it
 
- 1. clone the repo : `git clone https://github.com/aielove/sequoia`
+ 1. clone the repo : `git clone https://github.com/withs/sequoia`
  2. got to the folder : `cd sequoia`
  3. load the project : `xed sequoia.xcodeproj` or load it via xcode directly
  5. build and send to you phone or your simulator
